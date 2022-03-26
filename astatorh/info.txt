@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:astaroth
+en:Astaroth
+artist:Team Grimoire
+bpm:210
+bpm_base:210
+side:1
+rating:11
+designer:ccy

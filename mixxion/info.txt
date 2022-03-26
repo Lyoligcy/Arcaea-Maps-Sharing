@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:mixxion
+en:MixxioN
+artist:MisoilePunch
+bpm:275
+bpm_base:275
+side:1
+rating:11
+designer:ccy

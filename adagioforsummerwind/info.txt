@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:adagioforsummerwind
+en:Adagio for Summer Wind
+artist:Jun'ichi Shimizu
+bpm:150
+bpm_base:150
+side:0
+rating:7
+designer:ccy

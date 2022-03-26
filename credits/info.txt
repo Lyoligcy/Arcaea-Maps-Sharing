@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:credits
+en:Credits
+artist:Frums
+bpm:179
+bpm_base:179
+side:1
+rating:10
+designer:ccy

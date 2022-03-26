@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:owaritohajimarinooto
+en:Owari to Hajimari no Oto
+artist:Umeboshi Chazuke
+bpm:201
+bpm_base:201
+side:0
+rating:10+
+designer:ccy

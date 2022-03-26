@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:andimhome
+en:and I'm home
+artist:美樹さやか（CV：喜多村英梨）、佐倉杏子（CV：野中藍）
+bpm:125
+bpm_base:125
+side:0
+rating:7
+designer:ccy

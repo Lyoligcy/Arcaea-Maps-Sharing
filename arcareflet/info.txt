@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:arcareflet
+en:Arca refleT
+artist:し一け一
+bpm:260
+bpm_base:260
+side:0
+rating:10+
+designer:ccy

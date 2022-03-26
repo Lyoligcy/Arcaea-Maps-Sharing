@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:operaofthewasteland
+en:Opera of the wasteland 
+artist:Roselia
+bpm:270
+bpm_base:270
+side:1
+rating:10
+designer:ccy

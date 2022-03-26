@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:aakenrannoyumegagotoku
+en:Aa Kenran no Yume ga Gotoku (Short ver.)
+artist:Uinyasu, Occhoko Bunny
+bpm:146
+bpm_base:146
+side:0
+rating:9+
+designer:ccy

@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:madeinlove
+en:Made In Love
+artist:Chroma
+bpm:88
+bpm_base:88
+side:0
+rating:10
+designer:ccy

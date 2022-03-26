@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:quaoar
+en:Quaoar
+artist:Camellia
+bpm:174
+bpm_base:174
+side:1
+rating:11
+designer:ccy

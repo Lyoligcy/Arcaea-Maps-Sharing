@@ -1,0 +1,10 @@
+Notice! You should write the songlist by yourself!
+
+id:claiomhsolais
+en:Claiomh Solais
+artist:ETIA.
+bpm:188
+bpm_base:188
+side:1
+rating:10
+designer:ccy
