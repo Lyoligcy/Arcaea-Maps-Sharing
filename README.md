@@ -4,6 +4,7 @@
  必要的谱面信息都给了，都在每个压缩包的info.txt里。
  别问我songlist怎么写或者怎么玩自制，问就是不会。
  ————————————————————
+ 
  Try to use github for sharing maps(maybe should named charts?), only uploaded the maps with qualities, take it by yourself.
  ## But please DO NOT reupload or share to others!
 The necessary information is given in each ZIP, named info.txt.
