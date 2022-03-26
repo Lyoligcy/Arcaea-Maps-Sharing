@@ -3,4 +3,4 @@
  ## 务必不要二次外传，谢谢！
  
  Try to use github for sharing maps(maybe should named charts?), only uploaded the maps with qualities, take it by yourself.
- ## But please DO NOT reuploaded or share to others!
+ ## But please DO NOT reupload or share to others!
